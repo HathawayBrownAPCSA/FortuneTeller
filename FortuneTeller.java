@@ -24,7 +24,7 @@ public class FortuneTeller extends JFrame
   {
     super("Fortune Teller");
 
-    display = new JTextField("  Press \"Next\" to see your fortune...", 25);
+    display = new JTextField("  Press \"Next\" to see your fortune...", 35);
     display.setBackground(Color.WHITE);
     display.setEditable(false);
 
